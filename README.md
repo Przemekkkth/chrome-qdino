@@ -27,3 +27,4 @@ make
 ## Addons
 * [Qt](https://www.qt.io/) - cross-platform software for embedded & desktop
 * [Github](https://github.com/terroo/chrome-dino) - inspiration
+* [youtube](https://youtu.be/bcmY7_WObiA) - gameplay
